@@ -1,0 +1,5 @@
+target/*
+.idea/*
+DistributedKeyValueStore.iml
+DistributedDB.iml
+.DS_Store
